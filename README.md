@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/942cece2-c640-4e56-84c9-a863efc6e8af)# Campaign and Admission Performance Analysis
+# Campaign and Admission performance Analysis
 
 ## Table of contents
 
@@ -78,33 +78,33 @@ Among other branches
 #### Campaign wise performance
 
 Among Malappuram regions
-Top performing campaigns: Deployad | Awareness | malappuram |14/12/24
-                          Deployad Nilambur | Awareness |Nilambur| Brand recall lif|27/2/25
-                          Deployad | Awareness | Brand recall lift|18/2/25
-Moderate performing campaigns : Deployad Nilambur | sales |Office administration|28/2/25
-                                Deployad | whatsapp | Hr course sreeja|17/12/24
-                                Deployad| whatsapp | malappuram | data analytics farsana campaign|1/2/25                                                       
+Top performing campaigns: 1. Deployad | Awareness | malappuram |14/12/24 
+                          2. Deployad Nilambur | Awareness |Nilambur| Brand recall lif|27/2/25, 
+                          3. Deployad | Awareness | Brand recall lift|18/2/25
+Moderate performing campaigns : Deployad Nilambur | sales |Office administration|28/2/25, 
+                                Deployad | whatsapp | Hr course sreeja|17/12/24, 
+                                Deployad| whatsapp | malappuram | data analytics farsana campaign|1/2/25,                                                       
                                 Deployad|whatsapp|DM new Nusriya campaign|11/1/25
-Low performing campaigns : Deployad|whatsapp|sruthy diploma accounting| malappuram|5/2/25
-                           Deployad | whatsapp | SAP farsana campaign| 1/2/25
+Low performing campaigns : Deployad|whatsapp|sruthy diploma accounting| malappuram|5/2/25, 
+                           Deployad | whatsapp | SAP farsana campaign| 1/2/25, 
                            Deployad | Whatsapp | malappuram | Data analytics new campaign | 28/1/25
 
 Among Other regions
-* Top performing campaigns : DA-KL-Dm-12-02-25
-                             Deployad SAP|KL|lead campaign 4/2/25 
+* Top performing campaigns : DA-KL-Dm-12-02-25, 
+                             Deployad SAP|KL|lead campaign 4/2/25, 
                              SAP |GCC | Lead Gen | 16 01 -25 
-* Moderate performing campaigns : GCC data analytics lead
-                                  Power BI UAE lead gen 
+* Moderate performing campaigns : GCC data analytics lead, 
+                                  Power BI UAE lead gen, 
                                   Power BI KL lead gen  
-* Low performing campaigns : Digital marketing-KL-26-02-25
-                             Diploma in accounting-22-11-24
+* Low performing campaigns : Digital marketing-KL-26-02-25,
+                             Diploma in accounting-22-11-24,
                              Deployad | DA|Lead campaign 27/02/25
 
 #### Region wise highlights
 
-* Manjeri : Best results in Awareness campaigns
+* Manjeri : Best results in Awareness campaigns.
             Also performs moderately in digital marketing and data analytics
-* Nilambur : Strong in Awareness and Office administration
+* Nilambur : Strong in Awareness and Office administration.
              CAP performs moderately
 * Perinthalmanna : HR campaign had highest results
                    Data science showed moderate performance
