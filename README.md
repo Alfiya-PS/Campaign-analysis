@@ -14,3 +14,9 @@ This project is based on two key datasets:
 
 Together, these datasets enabled a comprehensive analysis of marketing effectiveness, course performance, counselor contributions, and region-specific trends.
 
+### Tools
+* Microsoft Excel – Used for organizing, cleaning, and exploring raw campaign and admission datasets. Pivot tables and basic formulas were used for initial summaries and data transformation.
+
+* Power BI – Utilized for visualizing key metrics through interactive dashboards, including region-wise and course-wise performance, counselor analysis, and campaign ROI insights.
+
+* Microsoft PowerPoint – Used to present insights, key findings, and recommendations through structured slides for stakeholders.
