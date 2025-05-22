@@ -53,4 +53,4 @@ Together, these datasets enabled a comprehensive analysis of marketing effective
 
 * Region & Branch Analysis: Compared performance across regions (e.g., Mancheri, Nilambur, UAE) to identify high-ROI areas and areas for improvement.
 
-*Temporal Trends: Assessed performance by week and by day to identify peak periods for admissions and campaign success.
+* Temporal Trends: Assessed performance by week and by day to identify peak periods for admissions and campaign success.
