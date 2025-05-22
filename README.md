@@ -40,3 +40,17 @@ Together, these datasets enabled a comprehensive analysis of marketing effective
      * Cost per Result, Conversion Rate, Revenue per Admission, etc.
 
 * Filtered the final dataset by region, week, and campaign status (active/inactive) to enable focused performance analysis.
+
+### Data Analysis
+
+* Campaign Performance Analysis: Evaluated the effectiveness of campaigns by region, course, and channel using metrics such as conversion rate, cost per result, and ROI.
+
+* Course-Level Analysis: Identified top- and low-performing courses based on number of admissions and total revenue.
+
+* Counselor Performance: Measured admissions and revenue contributions by each counselor to highlight key performers.
+
+* Source Effectiveness: Analyzed which lead sources (e.g., WhatsApp, Leads, My Operator, ADDOX) generated the most admissions and revenue.
+
+* Region & Branch Analysis: Compared performance across regions (e.g., Mancheri, Nilambur, UAE) to identify high-ROI areas and areas for improvement.
+
+*Temporal Trends: Assessed performance by week and by day to identify peak periods for admissions and campaign success.
