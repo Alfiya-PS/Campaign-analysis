@@ -1,4 +1,4 @@
-# Campaign and Admission Performance Analysis
+![image](https://github.com/user-attachments/assets/942cece2-c640-4e56-84c9-a863efc6e8af)# Campaign and Admission Performance Analysis
 
 ## Table of contents
 
@@ -54,3 +54,128 @@ Together, these datasets enabled a comprehensive analysis of marketing effective
 * Region & Branch Analysis: Compared performance across regions (e.g., Mancheri, Nilambur, UAE) to identify high-ROI areas and areas for improvement.
 
 * Temporal Trends: Assessed performance by week and by day to identify peak periods for admissions and campaign success.
+
+### FIndings - Deployad 
+
+Total admissions : 111
+Total fee : 2.79M
+Total amount spend : 216.65K
+Total ROI : 2.57M
+
+
+#### Branch wise campaign performance
+
+Among Malappuram region
+* Manjeri had the highest count of campaigns (10), top in results and conversion rate.
+* Nilambur followed with 3 campaigns, good results in Awareness & Office Admin.
+* Perinthalmanna had 2 campaigns, best performance in HR course.
+  
+Among other branches
+* Calicut achieved the highest results (551) but has the lowest conversion rate (0.2)
+* UAE had slightly fewer results (441) but showed the best conversion rate (0.4), good results in SAP
+* HYD had the lowest results (81), with a moderate conversion rate (0.3), HR shows great results than Power BI
+
+#### Campaign wise performance
+
+Among Malappuram regions
+Top performing campaigns: Deployad | Awareness | malappuram |14/12/24
+                          Deployad Nilambur | Awareness |Nilambur| Brand recall lif|27/2/25
+                          Deployad | Awareness | Brand recall lift|18/2/25
+Moderate performing campaigns : Deployad Nilambur | sales |Office administration|28/2/25
+                                Deployad | whatsapp | Hr course sreeja|17/12/24
+                                Deployad| whatsapp | malappuram | data analytics farsana campaign|1/2/25                                                       
+                                Deployad|whatsapp|DM new Nusriya campaign|11/1/25
+Low performing campaigns : Deployad|whatsapp|sruthy diploma accounting| malappuram|5/2/25
+                           Deployad | whatsapp | SAP farsana campaign| 1/2/25
+                           Deployad | Whatsapp | malappuram | Data analytics new campaign | 28/1/25
+
+Among Other regions
+* Top performing campaigns : DA-KL-Dm-12-02-25
+                             Deployad SAP|KL|lead campaign 4/2/25 
+                             SAP |GCC | Lead Gen | 16 01 -25 
+* Moderate performing campaigns : GCC data analytics lead
+                                  Power BI UAE lead gen 
+                                  Power BI KL lead gen  
+* Low performing campaigns : Digital marketing-KL-26-02-25
+                             Diploma in accounting-22-11-24
+                             Deployad | DA|Lead campaign 27/02/25
+
+#### Region wise highlights
+
+* Manjeri : Best results in Awareness campaigns
+            Also performs moderately in digital marketing and data analytics
+* Nilambur : Strong in Awareness and Office administration
+             CAP performs moderately
+* Perinthalmanna : HR campaign had highest results
+                   Data science showed moderate performance
+* Calicut : Best results in Power BI campaigns
+            Performs moderately in SAP and data analytics
+            Least performing for the course Digital marketing and Diploma
+* UAE : Power BI campaigns are the best performers
+        Moderate performance in SAP and data analytics
+* HYD : Best results in HR campaigns 
+        Moderately performs for the course Power BI
+
+#### Course wise performance
+
+By Revenue
+* Top performer : Data analytics
+* Low performer : Excel and Power BI
+
+By number of admissions
+* Top performer : Data analytics
+* Low performer : Excel and Power BI
+
+#### Councillor wise performance
+
+Best performers for each course,
+* HR – Safna
+* CAP – Athira V, Sreeja
+* CMA – Rayees
+* Data analytics – Swarna and Rayees.
+* Data science – Sreeja
+* Digital marketing – Sulai husna and Sruthi.
+* Excel – Swarna
+* Power BI – Sini
+* SAP – Remya and Sreenandana
+* Expand X – Aswin and Arjun Raj
+
+Best performers for each week,
+* Week 1 - Sreenandana, Safna
+* Week 2 - Rayees
+* Week 3 - Safna
+* Week 4 - Swarna
+* Week 5 - Rayees
+
+By revenue,
+* Top perfomers : Rayees, Safna and Swarna
+* Low perfomers : Sneha, Arjun Raj and Anupama
+
+By number of admissions,
+* Top perfomers : Safna and Swarna
+* Low perfomers : Anupama, Arjun Raj, Sneha and Vidya
+
+#### Admission reference category performance
+
+* LEADS is the top performer in both number of admissions (25) and total fees.
+* REFERENCE and CALL are also highly effective categories.
+* ADDOX, QIX, and WHATSAPP show solid performance with over ₹2 lakh in fee collections each.
+* INSTA and OTHER brought moderate results with fewer admissions and lower total fees.
+* FB, WALK IN  and CAMPAIGN had very low admissions but relatively good fee generation for their volume.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
