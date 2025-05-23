@@ -57,10 +57,10 @@ Together, these datasets enabled a comprehensive analysis of marketing effective
 
 ### FIndings - Deployad 
 
-Total admissions : 111
-Total fee : 2.79M
-Total amount spend : 216.65K
-Total ROI : 2.57M
+* Total admissions : 111
+* Total fee : 2.79M
+* Total amount spend : 216.65K
+* Total ROI : 2.57M
 
 
 #### Branch wise campaign performance
@@ -78,14 +78,14 @@ Among other branches
 #### Campaign wise performance
 
 Among Malappuram regions
-Top performing campaigns: 1. Deployad | Awareness | malappuram |14/12/24 
-                          2. Deployad Nilambur | Awareness |Nilambur| Brand recall lif|27/2/25, 
-                          3. Deployad | Awareness | Brand recall lift|18/2/25
-Moderate performing campaigns : Deployad Nilambur | sales |Office administration|28/2/25, 
+* Top performing campaigns: Deployad | Awareness | malappuram |14/12/24 
+                            Deployad Nilambur | Awareness |Nilambur| Brand recall lif|27/2/25, 
+                            Deployad | Awareness | Brand recall lift|18/2/25
+* Moderate performing campaigns : Deployad Nilambur | sales |Office administration|28/2/25, 
                                 Deployad | whatsapp | Hr course sreeja|17/12/24, 
                                 Deployad| whatsapp | malappuram | data analytics farsana campaign|1/2/25,                                                       
                                 Deployad|whatsapp|DM new Nusriya campaign|11/1/25
-Low performing campaigns : Deployad|whatsapp|sruthy diploma accounting| malappuram|5/2/25, 
+* Low performing campaigns : Deployad|whatsapp|sruthy diploma accounting| malappuram|5/2/25, 
                            Deployad | whatsapp | SAP farsana campaign| 1/2/25, 
                            Deployad | Whatsapp | malappuram | Data analytics new campaign | 28/1/25
 
@@ -106,14 +106,14 @@ Among Other regions
             Also performs moderately in digital marketing and data analytics
 * Nilambur : Strong in Awareness and Office administration.
              CAP performs moderately
-* Perinthalmanna : HR campaign had highest results
+* Perinthalmanna : HR campaign had highest results.
                    Data science showed moderate performance
-* Calicut : Best results in Power BI campaigns
-            Performs moderately in SAP and data analytics
+* Calicut : Best results in Power BI campaigns.
+            Performs moderately in SAP and data analytics.
             Least performing for the course Digital marketing and Diploma
-* UAE : Power BI campaigns are the best performers
+* UAE : Power BI campaigns are the best performers.
         Moderate performance in SAP and data analytics
-* HYD : Best results in HR campaigns 
+* HYD : Best results in HR campaigns. 
         Moderately performs for the course Power BI
 
 #### Course wise performance
